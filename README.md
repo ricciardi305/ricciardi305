@@ -14,6 +14,7 @@
 ### Alguns fatos interessantes...
   * 📚 Fiz faculdade de matemática, mas tranquei no último período
   * 🖥️ Em 2021, decidi mudar de área para programação
+  * 💻 Atualmente estou estudando Django
   * 🎧 Qualquer coisa que eu faço, que não seja trabalhar e/ou estudar, sempre estou escutando podcast
   * ⭐ Sou fã de Star Wars, Lord of The Rings e A Song of ice and Fire
   * 💨 Minha obra da vida é Avatar: A Lenda de Aang
@@ -48,23 +49,10 @@
     <img width="35" heigth="35" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="35" heigth="35" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
     <img width="35" heigth="35" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
   </div>
   
-          
-
-
-
-<!-- <div style="display: inline_block" align="center"><br><br>
-  <img align="center" alt="ricci-python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt="ricci-django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img align="center" alt="ricci-JS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="ricci-TS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="ricci-node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="ricci-docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-</div>
-<br>
+## 🚀 Quick stats
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=ricciardi305&count_private=true&show_icons=true&theme=nord"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ricciardi305&langs_count=8&layout=compact&theme=nord"/>
-</div> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ricciardi305&count_private=true&show_icons=true&theme=nord"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricciardi305&langs_count=8&layout=compact&theme=nord"/>
+</div>
