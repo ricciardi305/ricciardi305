@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**ricciardi305/ricciardi305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá! Eu sou o Rafael Ricciardi!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/ricciardi305"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=ricciardi305&count_private=true&show_icons=true&theme=nord"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricciardi305&langs_count=8&layout=compact&theme=nord"/>
+<div/>
