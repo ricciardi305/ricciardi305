@@ -53,5 +53,6 @@
   
 ## 🚀 Quick stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricciardi305&count_private=true&show_icons=true&theme=nord"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ricciardi305&count_private=true&show_icons=true&theme=nord"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricciardi305&layout=compact&langs_count=7&theme=nord"/>
 </div>
