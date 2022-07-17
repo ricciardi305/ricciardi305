@@ -9,7 +9,7 @@
 </div>
 
 ### Um pouco sobre mim...
-🔰 Sou estudante de desenvolvimento full stack na Kenzie Academy Brasil (quase finalizando o curso). Gosto de tecnologia e passo um bom tempo lendo e assistindo vídeos sobre.
+🔰 Sou estudante de desenvolvimento full stack na Kenzie Academy Brasil (quase finalizando o curso). Gosto de muitas coisas, entre elas, e talvez a mais importante, tecnologia. Uso uma boa parte do meu tempo lendo e assistindo sobre as mais variadas coisas.
 <br>
 ### Alguns fatos interessantes...
   * 📚 Fiz faculdade de matemática, mas tranquei no último período
