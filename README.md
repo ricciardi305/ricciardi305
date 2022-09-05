@@ -12,12 +12,12 @@
 </div>
 
 ### Um pouco sobre mim...
-🔰 Sou estudante de desenvolvimento full stack na Kenzie Academy Brasil (quase finalizando o curso). Gosto de muitas coisas, entre elas, e talvez a mais importante, tecnologia. Uso uma boa parte do meu tempo lendo e assistindo sobre as mais variadas coisas.
+🔰 Sou Desenvolvedor full stack. Gosto de muitas coisas, entre elas, e talvez a mais importante, tecnologia. Uso uma boa parte do meu tempo lendo e assistindo sobre as mais variadas coisas.
 <br>
 ### Alguns fatos interessantes...
   * 📚 Fiz faculdade de matemática, mas tranquei no último período
   * 🖥️ Em 2021, decidi mudar de área para programação
-  * 💻 Atualmente estou estudando Django
+  * 💻 Atualmente estou estudando MongoDB.
   * 🎧 Qualquer coisa que eu faço, que não seja trabalhar e/ou estudar, sempre estou escutando podcast
   * ⭐ Sou fã de Star Wars, Lord of The Rings e A Song of ice and Fire
   * 💨 Minha obra da vida é Avatar: A Lenda de Aang
