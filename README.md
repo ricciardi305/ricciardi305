@@ -12,7 +12,7 @@
 </div>
 
 ### Um pouco sobre mim...
-🔰 Sou Desenvolvedor full stack. Gosto de muitas coisas, entre elas, e talvez a mais importante, tecnologia. Uso uma boa parte do meu tempo lendo e assistindo sobre as mais variadas coisas.
+🔰 Sou Desenvolvedor full stack. Gosto de muitas coisas, entre elas, e talvez a mais importante, tecnologia. Uso uma boa parte do meu tempo livre lendo e assistindo sobre as mais variadas coisas.
 <br>
 ### Alguns fatos interessantes...
   * 📚 Fiz faculdade de matemática, mas tranquei no último período
