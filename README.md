@@ -17,7 +17,7 @@
 ### Alguns fatos interessantes...
   * 📚 Fiz faculdade de matemática, mas tranquei no último período
   * 🖥️ Em 2021, decidi mudar de área para programação
-  * 💻 Atualmente estou estudando MongoDB.
+  * 💻 Atualmente estou estudando NestJS.
   * 🎧 Qualquer coisa que eu faço, que não seja trabalhar e/ou estudar, sempre estou escutando podcast
   * ⭐ Sou fã de Star Wars, Lord of The Rings e A Song of ice and Fire
   * 💨 Minha obra da vida é Avatar: A Lenda de Aang
