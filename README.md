@@ -42,6 +42,11 @@
 </details>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricciardi305&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
